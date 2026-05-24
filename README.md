@@ -1,4 +1,5 @@
 <img width="1470" height="1997" alt="Elena Banica, Project 5, Portrait of a Young Woman, 1885, Masterpiece of Edgar Degas, Oil on Canvas, 18 in  x 24 in" src="https://github.com/user-attachments/assets/3015ab36-9c3b-494d-945c-33cc9e064ad0" />
+<img width="1567" height="1997" alt="Elena Banica, Woman with a Hat, Masterpiece of Henri Matisse, Fall 2023  Oil on canvas, 18 in  x 24 in" src="https://github.com/user-attachments/assets/2c2a12b3-2605-4a08-98fd-86de020fce8d" />
 
 
 

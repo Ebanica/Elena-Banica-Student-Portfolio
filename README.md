@@ -4,6 +4,9 @@
 
 <img width="850" height="1275" alt="Elena Banica, Stay Safe, Fall 2021  Collage on paper and foam board, 20in X 29,6in" src="https://github.com/user-attachments/assets/7a9a9efc-98ea-49c2-9c50-15968b3ea141" />
 
+<img width="1598" height="1616" alt="Elena Banica, Narrative Diorama, Spring 2021  Mixed Media" src="https://github.com/user-attachments/assets/930ac49f-8b4a-46c7-b8f1-6e1c87bbc1db" />
+
+
 
 
 

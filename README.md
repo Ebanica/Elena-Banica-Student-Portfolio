@@ -6,6 +6,9 @@
 
 <img width="1598" height="1616" alt="Elena Banica, Narrative Diorama, Spring 2021  Mixed Media" src="https://github.com/user-attachments/assets/930ac49f-8b4a-46c7-b8f1-6e1c87bbc1db" />
 
+<img width="1922" height="2529" alt="Elena Banica, Santa Cruz, Fall 2021  Glitched image" src="https://github.com/user-attachments/assets/2a695e05-77bc-4f42-88a5-52b80776c30f" />
+
+
 
 
 

@@ -2,6 +2,9 @@
 
 <img width="1567" height="1997" alt="Elena Banica, Woman with a Hat, Masterpiece of Henri Matisse, Fall 2023  Oil on canvas, 18 in  x 24 in" src="https://github.com/user-attachments/assets/3015ab36-9c3b-494d-945c-33cc9e064ad0" />
 
+<img width="850" height="1275" alt="Elena Banica, Stay Safe, Fall 2021  Collage on paper and foam board, 20in X 29,6in" src="https://github.com/user-attachments/assets/7a9a9efc-98ea-49c2-9c50-15968b3ea141" />
+
+
 
 
 # Hello website!

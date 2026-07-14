@@ -8,7 +8,7 @@
 
 <img width="1922" height="2529" alt="Elena Banica, Santa Cruz, Fall 2021  Glitched image" src="https://github.com/user-attachments/assets/2a695e05-77bc-4f42-88a5-52b80776c30f" />
 
-<img width="2509" height="2286" alt="WAR" src="https://github.com/user-attachments/assets/278775cf-fdc1-4979-bfa5-16be1164c9f2" />
+<img width="2509" height="2286" alt="Elena Banica, "Medal of Dishonor," Spring 2023. Cast aluminum relief sculpture: 3.5” x 4” x 0.7" src="https://github.com/user-attachments/assets/278775cf-fdc1-4979-bfa5-16be1164c9f2" />
 
 
 
